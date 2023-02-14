@@ -1,0 +1,72 @@
+.assetWrapper {
+    background-color: rgb(188, 188, 188);
+    border-radius: 10px;
+    margin: 10px;
+    width: fit-content;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 5px;
+}
+
+.trending {
+    padding: 0 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.losers {
+    padding: 0 20px;
+    margin-left: 20px;
+}
+
+.header span {
+    color: rgb(212, 212, 212);
+}
+
+.header {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.header img {
+    padding-right: 10px;
+    width: 3%;
+    height: 3%;
+}
+
+.assetCard {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.graph {
+    width: fit-content;
+    padding: 10px;
+}
+
+.details {
+    background-color: rgb(224, 224, 224);
+    padding: 5px;
+    border-radius: 10px;
+    width: 130px;
+}
+
+.details p {
+    padding-left: 15px;
+}
+
+.percent {
+    color: rgb(13, 162, 13);
+}
+
+.group-wrapper table {
+    width: 100%;
+    padding: 10px;
+    /* border: 2px solid forestgreen; */
+}

@@ -1,0 +1,18 @@
+.Theme-wrapper {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(225, 222, 222);
+    padding: 5px;
+    border-radius: 10px;
+    font-size: small;
+}
+
+.Dark {
+    background-color: rgb(250, 252, 253);
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.Light {
+    padding: 10px 25px;
+}

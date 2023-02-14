@@ -1,0 +1,28 @@
+.menu-wrapper li {
+    padding: 16px 0;
+    list-style: none;
+    display: flex;
+    /* border: 1px solid; */
+}
+
+.menuList div {
+    padding: 8px 0;
+    list-style: none;
+    display: flex;
+    /* border: 1px solid; */
+}
+
+
+/* .menuList ul {
+    margin: 0;
+} */
+
+.menu-wrapper p {
+    font-size: small;
+    padding-top: 16px;
+    color: grey;
+}
+
+.menuList img {
+    padding-right: 20px;
+}

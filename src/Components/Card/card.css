@@ -1,0 +1,24 @@
+.Card-Wrapper {
+    width: 100%;
+    background-image: url(../../Assets/Rectangle\ 710\ \(1\).png);
+    background-repeat: no-repeat;
+    padding: 3px 15px;
+    margin: 10px;
+}
+
+.Card-Wrapper p {
+    width: 330px;
+}
+
+.Card-Wrapper button {
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+}
+
+.Card-Wrapper b {
+    font-size: 20px;
+}

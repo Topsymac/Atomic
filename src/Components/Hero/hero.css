@@ -1,0 +1,51 @@
+.kobo {
+    font-size: 15px;
+}
+
+.balance h2 {
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.balance {
+    line-height: 10px;
+}
+
+.currency {
+    border: 1px solid rgb(208, 207, 207);
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.currency span {
+    padding-left: 15px;
+}
+
+.addmoney {
+    border: 1px solid rgb(208, 207, 207);
+    display: flex;
+    width: fit-content;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding: 0 16px;
+}
+
+.Money img {
+    padding-right: 10px;
+}
+
+.sendmoney {
+    border: 1px solid rgb(208, 207, 207);
+    display: flex;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 0 16px;
+}
+
+.Money {
+    display: flex;
+    justify-content: space-evenly;
+    width: fit-content;
+}

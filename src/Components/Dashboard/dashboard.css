@@ -1,0 +1,43 @@
+.dashboard-Wrapper {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+    /* padding: 10px 20px; */
+}
+
+.dashboardLeft {
+    padding: 20px;
+}
+
+.dashboardRight {
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboardSearch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(224, 224, 224);
+    border-radius: 10px;
+    padding: 0 10px;
+    margin: 10px;
+}
+
+.dashboardSearch input {
+    border: none;
+    background: transparent;
+    padding: 10px;
+}
+
+.Profile button {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.dashboardRight div {
+    margin-right: 15px;
+}
